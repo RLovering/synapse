@@ -6,7 +6,7 @@ Peripheral
 2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786]
 * Integral 
 * Peripheral
-3.	Presynaptic plasma membrane proteins   [presynaptic membrane ; GO:0042734](#presynaptic membrane--go0042734)
+3.	Presynaptic plasma membrane proteins   [presynaptic membrane ; GO:0042734](#presynaptic-membrane--go0042734)
 4.	Endocytic proteins
 5.	Endosome
 6.	Presynaptic cytosolic proteins 
