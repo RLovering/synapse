@@ -1,8 +1,8 @@
 ## 'Localization-based' terms from synapse meeting
 
 1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021)
-Integral 
-Peripheral
+* Integral  - [integral component of synaptic vesicle membrane](#integral-component-of-synaptic-vesicle-membrane)
+* Peripheral - TBA ?
 2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786](#presynaptic-active-zone--GO-0048786)
 * Integral 
 * Peripheral
