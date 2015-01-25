@@ -1,3 +1,21 @@
+## 'Localization-based' terms from synapse meeting
+
+1.	Synaptic vesicle proteins
+Integral 
+Peripheral
+2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786]
+* Integral 
+* Peripheral
+3.	Presynaptic plasma membrane proteins   [presynaptic membrane ; GO:0042734](#presynaptic membrane_;_GO:0042734)
+4.	Endocytic proteins
+5.	Endosome
+6.	Presynaptic cytosolic proteins 
+7.	Postsynaptic plasma membrane proteins
+8.	Postsynaptic density proteins
+9.	Spine cytoskeleton  
+10.	Postsynaptic endosome
+
+
 ### [synapse ; GO:0045202](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0045202#term=annotation)
  * __def:__"The junction between a nerve fiber of one neuron and another neuron or muscle fiber or glial cell; the site of interneuronal communication. As the nerve fiber approaches the synapse it enlarges into a specialized structure, the presynaptic nerve ending, which contains mitochondria and synaptic vesicles. At the tip of the nerve ending is the presynaptic membrane; facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic nerve ending secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane." [ISBN:0198506732]
  * __synonym:__"electrotonic synapse" RELATED [NIF_Subcellular:sao1311109124]
