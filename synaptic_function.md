@@ -7,7 +7,7 @@
   * Synchronized
   * Asynchronized
   * Spontaneous
-5.	Neurotransmitter reuptake  - [#neurotransmitter-uptake-go0001504]
+5.	Neurotransmitter reuptake  - [neurotransmitter uptake ; GO:0001504](#neurotransmitter-uptake-go0001504)
 6.	Synaptic vesicle endocytosis
 7.	Synaptic vesicle membrane recycling
 8.	Neurotransmitter loading
