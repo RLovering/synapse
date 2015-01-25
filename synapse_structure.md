@@ -1,19 +1,19 @@
 ## 'Localization-based' terms from synapse meeting
 
-1.	Synaptic vesicle proteins
+1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021
 Integral 
 Peripheral
-2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786]
+2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786](#presynaptic-active-zone--GO-0048786)
 * Integral 
 * Peripheral
-3.	Presynaptic plasma membrane proteins   [presynaptic membrane ; GO:0042734](#presynaptic-membrane--go0042734)
-4.	Endocytic proteins
-5.	Endosome
+3.	Presynaptic plasma membrane proteins -  [presynaptic membrane ; GO:0042734](#presynaptic-membrane--go0042734)
+4.	Endocytic proteins  
+5.	Endosome   - TBA
 6.	Presynaptic cytosolic proteins 
-7.	Postsynaptic plasma membrane proteins
-8.	Postsynaptic density proteins
-9.	Spine cytoskeleton  
-10.	Postsynaptic endosome
+7.	Postsynaptic plasma membrane proteins  -  [postsynaptic membrane ; GO:0045211](#postsynaptic-membrane--go0045211)
+8.	Postsynaptic density proteins    = [postsynaptic density ; GO:0014069](#postsynaptic-density--go0014069)
+9.	Spine cytoskeleton - TBA
+10.	Postsynaptic endosome   - TBA
 
 
 ### [synapse ; GO:0045202](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0045202#term=annotation)
@@ -21,6 +21,12 @@ Peripheral
  * __synonym:__"electrotonic synapse" RELATED [NIF_Subcellular:sao1311109124]
  * __synonym:__"mixed synapse" NARROW [NIF_Subcellular:sao1506103497]
  * __synonym:__"synaptic junction" EXACT []
+
+### [synaptic vesicle ; GO:0008021](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0008021#term=annotation)
+ * __def:__"A secretory organelle, some 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane." [PMID:10099709]
+ * __synonym:__ "docked vesicle" NARROW [NIF_Subcellular:sao403156667]
+ * __relationship:__ _part_of_ GO:0045202 ! synapse
+
 
 ### [presynaptic active zone ; GO:0048786](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048786#term=annotation)
  * __def:__"A specialized region of the plasma membrane and cell cortex of a presynaptic neuron; encompasses a region of the plasma membrane where synaptic vesicles dock and fuse, synaptic vesicles, and a specialized cortical cytoskeletal matrix." [GOC:dh, GOC:dl, GOC:ef, GOC:jid, PMID:3152289]
