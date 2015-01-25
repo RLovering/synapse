@@ -1,6 +1,6 @@
 ## 'Localization-based' terms from synapse meeting
 
-1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021
+1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021)
 Integral 
 Peripheral
 2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786](#presynaptic-active-zone--GO-0048786)
@@ -11,7 +11,7 @@ Peripheral
 5.	Endosome   - TBA
 6.	Presynaptic cytosolic proteins 
 7.	Postsynaptic plasma membrane proteins  -  [postsynaptic membrane ; GO:0045211](#postsynaptic-membrane--go0045211)
-8.	Postsynaptic density proteins    = [postsynaptic density ; GO:0014069](#postsynaptic-density--go0014069)
+8.	Postsynaptic density proteins    - [postsynaptic density ; GO:0014069](#postsynaptic-density--go0014069)
 9.	Spine cytoskeleton - TBA
 10.	Postsynaptic endosome   - TBA
 
