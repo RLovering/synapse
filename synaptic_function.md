@@ -3,32 +3,34 @@
 1.	Presynaptic excitability  - TBA
 2.	presynaptic ca entry/primary ca channels for different syn and regions  - TBA
 3.	synaptic vesicle clustering/docking/priming  - [synaptic vesicle docking ; GO:0016081](#synaptic-vesicle-docking--go0016081)
-4.	fusion/release
-  * Synchronized
-  * Asynchronized
-  * Spontaneous
+4.	fusion/release - [calcium ion-dependent exocytosis of neurotransmitter ; GO:0048791](calcium-ion-dependent-exocytosis-of-neurotransmitter--go0048791)
+  * Synchronized  - [fast, calcium ion-dependent exocytosis of neurotransmitter ; GO:0098746](#fast-calcium-ion-dependent-exocytosis-of-neurotransmitter--go0098746)
+  * Asynchronous  - [slow, calcium ion-dependent exocytosis of neurotransmitter ; GO:0098747](#slow-calcium-ion-dependent-exocytosis-of-neurotransmitter--go0098747)
+  * Spontaneous  - [spontaneous neurotransmitter secretion ; GO:0061669](#spontaneous-neurotransmitter-secretion--go0061669)
 5.	Neurotransmitter reuptake  - [neurotransmitter uptake ; GO:0001504](#neurotransmitter-uptake-go0001504)
-6.	Synaptic vesicle endocytosis 
-7.	Synaptic vesicle membrane recycling
+6.	Synaptic vesicle endocytosis [synaptic vesicle endocytosis ; GO:0048488](#synaptic-vesicle-endocytosis--go0048488)
+7.	Synaptic vesicle membrane recycling  - [#synaptic vesicle recycling ; GO:0036465](synaptic-vesicle-recycling--go0036465)
 8.	Neurotransmitter loading - [neurotransmitter loading into synaptic vesicle ; GO:0098700](#neurotransmitter-loading-into-synaptic-vesicle--go0098700)
 9.	Dense core vesicle transport and release
-10.	Presynaptic modulation 
-11.	Organization of synaptic junction 
+10.	Presynaptic modulation - TBA ?
+11.	Organization of synaptic junction - TBA ? 
   * Extracellular matrix
   * Glia-related modulation
-12.	Receptor binding/activation
-13.	Receptor localization
-14.	Trafficking
-	* Constitutive
-	* Activity-dependent
-15.	Postsynaptic excitability
- 	* Receptor modulation
-	*	Ion channels
-16.	Postsynaptic signal transduction
-17.	Synaptic plasticity
-  * Structural plasticity-spines
-  * Functional plasticity
-18.	Extra-synaptic modulators
+12.	Receptor binding/activation - [neurotransmitter receptor activity]
+13.	Receptor localization  - TBA ?
+14.	Trafficking - [synaptic vesicle transport]() ?
+	* Constitutive - TBA
+	* Activity-dependent - TBA
+15.	Postsynaptic excitability - 
+ 	* Receptor modulation - TBA ?
+	* Ion channels  - TBA ?
+16.	Postsynaptic signal transduction  - No general terms - lots of specific ones
+17.	Synaptic plasticity  - [regulation of synaptic plasticity ; GO:0048167](#regulation-of-synaptic-plasticity--go0048167)
+  * Structural plasticity-spines - TBA
+  * Functional plasticity - TBA
+18.	Extra-synaptic modulators  - Very general - presumably maps to many terms?
+
+
 
 
 ### [neurotransmitter uptake ; GO:0001504](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0001504#term=annotation)
