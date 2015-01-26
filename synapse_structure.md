@@ -1,7 +1,7 @@
 ## 'Localization-based' terms from synapse meeting
 
 1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021)
-  * Integral  - [integral component of synaptic vesicle membrane](#integral-component-of-synaptic-vesicle-membrane)
+  * Integral  - [integral component of synaptic vesicle membrane](#integral-component-of-synaptic-vesicle-membrane--go0030285])
   * Peripheral - TBA ?
 2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786](#presynaptic-active-zone--GO-0048786)
   * Integral 
@@ -26,6 +26,12 @@
  * __def:__"A secretory organelle, some 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane." [PMID:10099709]
  * __synonym:__ "docked vesicle" NARROW [NIF_Subcellular:sao403156667]
  * __relationship:__ _part_of_ GO:0045202 ! synapse
+ * 
+ 
+### [integral component of synaptic vesicle membrane ; GO:0030285](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0030285#term=annotation)
+* __def:__"The component of the synaptic vesicle membrane consisting of gene products and protein complexes that have some part that penetrates at least one leaflet of the membrane bilayer. This component includes gene products that are buried in the bilayer with no exposure outside the bilayer." [GOC:dos, GOC:go_curators]
+* __synonym:__"integral to synaptic vesicle membrane" NARROW []
+* __relationship:__ _part_of_ GO:0008021 ! synaptic vesicle
 
 
 ### [presynaptic active zone ; GO:0048786](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048786#term=annotation)
