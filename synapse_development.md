@@ -1,9 +1,9 @@
 ## Synapse development
 
-* Synapse adhesion/specificity/target recognition  - [synaptic target recognition]()
-* Presynaptic assembly  - [presynaptic membrane assembly ; GO:0097105](presynaptic-membrane-assembly--go0097105)
-* Postsynaptic assembly  - [postsynaptic membrane assembly ; GO:0097104](postsynaptic-membrane-assembly--go0097104) ; [postsynaptic density assembly ; GO:0097107](postsynaptic-density-assembly--go0097107)
-* Synapse maturation   - [synapse maturation ; GO:0060074](synapse-maturation--go0060074)
+* Synapse adhesion/specificity/target recognition  - [synaptic target recognition](#)
+* Presynaptic assembly  - [presynaptic membrane assembly ; GO:0097105](#presynaptic-membrane-assembly--go0097105)
+* Postsynaptic assembly  - [postsynaptic membrane assembly ; GO:0097104](#postsynaptic-membrane-assembly--go0097104) ; [postsynaptic density assembly ; GO:0097107](#postsynaptic-density-assembly--go0097107)
+* Synapse maturation   - [synapse maturation ; GO:0060074](#synapse-maturation--go0060074)
 * Synapse maintenance - TBA
 * Synapse elimination - TBA
 * 	Activity dependent/independent - TBA
