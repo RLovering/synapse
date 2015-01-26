@@ -18,7 +18,7 @@
   * Glia-related modulation
 12.	Receptor binding/activation - [neurotransmitter receptor activity]
 13.	Receptor localization  - TBA ?
-14.	Trafficking - [synaptic vesicle transport]() ?
+14.	Trafficking - [synaptic vesicle transport](#) ?
 	* Constitutive - TBA
 	* Activity-dependent - TBA
 15.	Postsynaptic excitability - 
@@ -29,8 +29,6 @@
   * Structural plasticity-spines - TBA
   * Functional plasticity - TBA
 18.	Extra-synaptic modulators  - Very general - presumably maps to many terms?
-
-
 
 
 ### [neurotransmitter uptake ; GO:0001504](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0001504#term=annotation)
