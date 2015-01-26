@@ -1,16 +1,16 @@
 ## 'Functional process-based'
 
-1.	Presynaptic excitability
-2.	presynaptic ca entry/primary ca channels for different syn and regions
-3.	synaptic vesicle clustering/docking/priming
+1.	Presynaptic excitability  - TBA
+2.	presynaptic ca entry/primary ca channels for different syn and regions  - TBA
+3.	synaptic vesicle clustering/docking/priming  - [synaptic vesicle docking ; GO:0016081](#synaptic-vesicle-docking--go0016081)
 4.	fusion/release
   * Synchronized
   * Asynchronized
   * Spontaneous
 5.	Neurotransmitter reuptake  - [neurotransmitter uptake ; GO:0001504](#neurotransmitter-uptake-go0001504)
-6.	Synaptic vesicle endocytosis
+6.	Synaptic vesicle endocytosis 
 7.	Synaptic vesicle membrane recycling
-8.	Neurotransmitter loading
+8.	Neurotransmitter loading - [neurotransmitter loading into synaptic vesicle ; GO:0098700](#neurotransmitter-loading-into-synaptic-vesicle--go0098700)
 9.	Dense core vesicle transport and release
 10.	Presynaptic modulation 
 11.	Organization of synaptic junction 
