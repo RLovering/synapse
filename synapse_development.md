@@ -9,6 +9,11 @@
 * 	Activity dependent/independent - TBA
 * Glia-related modulation  - TBA
 
+### [synapse assembly ; GO:0007416](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0007416#term=annotation)
+namespace: biological_process
+* __def:__"The aggregation, arrangement and bonding together of a set of components to form a synapse." [GOC:mah]
+* __synonym:__"synapse biogenesis" EXACT [GOC:mah]
+* __synonym:__"synaptogenesis" EXACT [GOC:mah]
 
 ### [regulation of synapse assembly ; GO:0051963](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051963#term=annotation)
 * __def:__"Any process that modulates the frequency, rate or extent of synapse assembly, the aggregation, arrangement and bonding together of a set of components to form a synapse." [GOC:ai, GOC:pr]
