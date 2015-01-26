@@ -13,7 +13,7 @@
 8.	Neurotransmitter loading - [neurotransmitter loading into synaptic vesicle ; GO:0098700](#neurotransmitter-loading-into-synaptic-vesicle--go0098700)
 9.	Dense core vesicle transport and release
 10.	Presynaptic modulation - TBA ?
-11.	Organization of synaptic junction - TBA ? 
+11.	Organization of synaptic junction - Does this mean regulation of organization?
   * Extracellular matrix
   * Glia-related modulation
 12.	Receptor binding/activation - [neurotransmitter receptor activity]
