@@ -1,11 +1,11 @@
 ## 'Localization-based' terms from synapse meeting
 
 1.	Synaptic vesicle proteins  - [synaptic vesicle ; GO:0008021](#synaptic-vesicle--go0008021)
-* Integral  - [integral component of synaptic vesicle membrane](#integral-component-of-synaptic-vesicle-membrane)
-* Peripheral - TBA ?
+  * Integral  - [integral component of synaptic vesicle membrane](#integral-component-of-synaptic-vesicle-membrane)
+  * Peripheral - TBA ?
 2.	Active zone proteins   -  [presynaptic active zone ; GO:0048786](#presynaptic-active-zone--GO-0048786)
-* Integral 
-* Peripheral
+  * Integral 
+  * Peripheral
 3.	Presynaptic plasma membrane proteins -  [presynaptic membrane ; GO:0042734](#presynaptic-membrane--go0042734)
 4.	Endocytic proteins  
 5.	Endosome   - TBA
