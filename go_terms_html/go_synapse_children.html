@@ -1,0 +1,147 @@
+<html><head>
+<script type="text/javascript" src="./lib/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="./lib/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./lib/jquery.fancytree.js"></script>
+<link href="./lib/skin-lion/ui.fancytree.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">$(function(){ $("#tree").fancytree()});</script>
+<style>
+span.fancytree-node.is_a > span.fancytree-icon {
+background-image: url("lib/is_a.gif");
+background-position: 0 0;
+}
+span.fancytree-node.part_of > span.fancytree-icon {
+background-image: url("lib/part_of.gif");
+background-position: 0 0;
+}
+span.fancytree-node.regulates > span.fancytree-icon {
+background-image: url("lib/regulates.gif");
+background-position: 0 0;
+}
+span.fancytree-node.positively_regulates > span.fancytree-icon {
+background-image: url("lib/positively_regulates.gif");
+background-position: 0 0;
+}
+span.fancytree-node.negatively_regulates > span.fancytree-icon {
+background-image: url("lib/negatively_regulates.gif");
+background-position: 0 0;
+}
+</style>
+</head><body>
+<div id="tree">
+<ul id="treeData" style="display: none;">
+<li id="GO:0045202">synapse
+	<ul>
+		<li class="is_a" id="GO:0031594" title="GO:0031594" >neuromuscular junction
+		<ul>
+			<li class="is_a" id="GO:0098520" title="GO:0098520" >excitatory neuromuscular junction
+			<ul>
+				<li class="is_a" id="GO:0098522" title="GO:0098522" >neuromuscular junction of skeletal muscle fiber
+				<li class="is_a" id="GO:0098525" title="GO:0098525" >excitatory neuromuscular junction of somatic myotube
+			</ul>
+			<li class="is_a" id="GO:0098521" title="GO:0098521" >inhibitory neuromuscular junction
+			<ul>
+				<li class="is_a" id="GO:0098526" title="GO:0098526" >inhibitory neuromuscular junction of somatic myotube
+			</ul>
+			<li class="is_a" id="GO:0098523" title="GO:0098523" >neuromuscular junction of myotube
+			<ul>
+				<li class="is_a" id="GO:0098522" title="GO:0098522" >neuromuscular junction of skeletal muscle fiber
+				<li class="is_a" id="GO:0098524" title="GO:0098524" >neuromuscular junction of somatic muscle myotube
+				<ul>
+					<li class="is_a" id="GO:0098525" title="GO:0098525" >excitatory neuromuscular junction of somatic myotube
+					<li class="is_a" id="GO:0098526" title="GO:0098526" >inhibitory neuromuscular junction of somatic myotube
+			</ul></ul>
+			<li class="is_a" id="GO:0098527" title="GO:0098527" >neuromuscular junction of somatic muscle
+			<ul>
+				<li class="is_a" id="GO:0098524" title="GO:0098524" >neuromuscular junction of somatic muscle myotube
+				<ul>
+					<li class="is_a" id="GO:0098525" title="GO:0098525" >excitatory neuromuscular junction of somatic myotube
+					<li class="is_a" id="GO:0098526" title="GO:0098526" >inhibitory neuromuscular junction of somatic myotube
+		</ul></ul></ul>
+		<li class="is_a" id="GO:0032279" title="GO:0032279" >asymmetric synapse
+		<li class="is_a" id="GO:0032280" title="GO:0032280" >symmetric synapse
+		<li class="part_of" id="GO:0044456" title="GO:0044456" >synapse part
+		<ul>
+			<li class="is_a" id="GO:0008021" title="GO:0008021" >synaptic vesicle
+			<ul>
+				<li class="part_of" id="GO:0030672" title="GO:0030672" >synaptic vesicle membrane
+				<ul>
+					<li class="part_of" id="GO:0030129" title="GO:0030129" >clathrin coat of synaptic vesicle
+					<li class="part_of" id="GO:0098563" title="GO:0098563" >intrinsic component of synaptic vesicle membrane
+				</ul>
+				<li class="part_of" id="GO:0034592" title="GO:0034592" >synaptic vesicle lumen
+			</ul>
+			<li class="is_a" id="GO:0014069" title="GO:0014069" >postsynaptic density
+			<ul>
+				<li class="is_a" id="GO:0097481" title="GO:0097481" >neuronal postsynaptic density
+				<li class="is_a" id="GO:0097482" title="GO:0097482" >muscle cell postsynaptic density
+				<li class="is_a" id="GO:0097483" title="GO:0097483" >glial cell postsynaptic density
+			</ul>
+			<li class="is_a" id="GO:0030129" title="GO:0030129" >clathrin coat of synaptic vesicle
+			<li class="is_a" id="GO:0030285" title="GO:0030285" >integral component of synaptic vesicle membrane
+			<li class="is_a" id="GO:0030672" title="GO:0030672" >synaptic vesicle membrane
+			<ul>
+				<li class="part_of" id="GO:0030129" title="GO:0030129" >clathrin coat of synaptic vesicle
+				<li class="part_of" id="GO:0098563" title="GO:0098563" >intrinsic component of synaptic vesicle membrane
+			</ul>
+			<li class="is_a" id="GO:0034592" title="GO:0034592" >synaptic vesicle lumen
+			<li class="is_a" id="GO:0036062" title="GO:0036062" >presynaptic periactive zone
+			<li class="is_a" id="GO:0043083" title="GO:0043083" >synaptic cleft
+			<li class="is_a" id="GO:0043195" title="GO:0043195" >terminal bouton
+			<ul>
+				<li class="is_a" id="GO:0061174" title="GO:0061174" >type I terminal bouton
+				<ul>
+					<li class="is_a" id="GO:0061176" title="GO:0061176" >type Ib terminal bouton
+					<li class="is_a" id="GO:0061177" title="GO:0061177" >type Is terminal bouton
+					<li class="part_of" id="GO:0071212" title="GO:0071212" >subsynaptic reticulum
+				</ul>
+				<li class="is_a" id="GO:0061175" title="GO:0061175" >type II terminal bouton
+				<li class="is_a" id="GO:0097467" title="GO:0097467" >type III terminal bouton
+				<li class="is_a" id="GO:1990024" title="GO:1990024" >C bouton
+				<li class="is_a" id="GO:1990025" title="GO:1990025" >F bouton
+				<li class="is_a" id="GO:1990026" title="GO:1990026" >hippocampal mossy fiber expansion
+				<li class="is_a" id="GO:1990027" title="GO:1990027" >S bouton
+				<li class="part_of" id="GO:1990474" title="GO:1990474" >synaptic vesicle, readily releasable pool
+				<li class="part_of" id="GO:1990475" title="GO:1990475" >synaptic vesicle, recycling pool
+				<li class="part_of" id="GO:1990476" title="GO:1990476" >synaptic vesicle, resting pool
+			</ul>
+			<li class="is_a" id="GO:0048786" title="GO:0048786" >presynaptic active zone
+			<ul>
+				<li class="part_of" id="GO:0048787" title="GO:0048787" >presynaptic active zone membrane
+				<li class="part_of" id="GO:0048788" title="GO:0048788" >presynaptic cytoskeletal matrix assembled at active zones
+				<li class="part_of" id="GO:0097445" title="GO:0097445" >presynaptic active zone dense projection
+				<li class="part_of" id="GO:1990013" title="GO:1990013" >presynaptic grid
+			</ul>
+			<li class="is_a" id="GO:0048788" title="GO:0048788" >presynaptic cytoskeletal matrix assembled at active zones
+			<li class="is_a" id="GO:0071212" title="GO:0071212" >subsynaptic reticulum
+			<li class="is_a" id="GO:0097060" title="GO:0097060" >synaptic membrane
+			<ul>
+				<li class="is_a" id="GO:0042734" title="GO:0042734" >presynaptic membrane
+				<ul>
+					<li class="is_a" id="GO:0048787" title="GO:0048787" >presynaptic active zone membrane
+				</ul>
+				<li class="is_a" id="GO:0045211" title="GO:0045211" >postsynaptic membrane
+			</ul>
+			<li class="is_a" id="GO:0097445" title="GO:0097445" >presynaptic active zone dense projection
+			<li class="is_a" id="GO:0098563" title="GO:0098563" >intrinsic component of synaptic vesicle membrane
+			<li class="is_a" id="GO:1990013" title="GO:1990013" >presynaptic grid
+			<li class="is_a" id="GO:1990474" title="GO:1990474" >synaptic vesicle, readily releasable pool
+			<li class="is_a" id="GO:1990475" title="GO:1990475" >synaptic vesicle, recycling pool
+			<li class="is_a" id="GO:1990476" title="GO:1990476" >synaptic vesicle, resting pool
+		</ul>
+		<li class="is_a" id="GO:0060076" title="GO:0060076" >excitatory synapse
+		<ul>
+			<li class="is_a" id="GO:0098520" title="GO:0098520" >excitatory neuromuscular junction
+			<ul>
+				<li class="is_a" id="GO:0098522" title="GO:0098522" >neuromuscular junction of skeletal muscle fiber
+				<li class="is_a" id="GO:0098525" title="GO:0098525" >excitatory neuromuscular junction of somatic myotube
+		</ul></ul>
+		<li class="is_a" id="GO:0060077" title="GO:0060077" >inhibitory synapse
+		<ul>
+			<li class="is_a" id="GO:0098521" title="GO:0098521" >inhibitory neuromuscular junction
+			<ul>
+				<li class="is_a" id="GO:0098526" title="GO:0098526" >inhibitory neuromuscular junction of somatic myotube
+		</ul></ul>
+		<li class="is_a" id="GO:0097470" title="GO:0097470" >ribbon synapse
+		<li class="is_a" id="GO:0097471" title="GO:0097471" >mossy fiber rosette
+</ul></div>
+</body></html>
