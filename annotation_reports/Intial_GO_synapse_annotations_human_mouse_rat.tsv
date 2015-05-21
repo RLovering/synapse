@@ -1,0 +1,473 @@
+human.symbol	rat.symbol	mouse.symbol	human.go.annotation	mouse.go.annotation	rat.go.annotation
+ABHD6	Abhd6	Abhd6		long term synaptic depression	
+ABLIM1	Ablim1	Ablim1		neuronal postsynaptic density	
+ACHE	Ache	Ache	synapse	neuromuscular junction; synapse; neurotransmitter receptor biosynthetic process	synapse assembly; presynaptic membrane; synapse; postsynaptic membrane
+ADAM10	Adam10	Adam10		postsynaptic density	
+ADD2	Add2	Add2		neuronal postsynaptic density	
+ADD3	Add3	Add3		neuronal postsynaptic density	
+ADORA1	Adora1	Adora1		synapse; regulation of excitatory postsynaptic membrane potential	postsynaptic density; negative regulation of synaptic transmission, GABAergic; negative regulation of synaptic transmission, GABAergic; asymmetric synapse; presynaptic membrane; terminal bouton; postsynaptic membrane; regulation of synaptic plasticity; presynaptic active zone; negative regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential
+ADORA2A	Adora2a	Adora2a		synaptic transmission, dopaminergic; positive regulation of synaptic transmission, GABAergic; positive regulation of synaptic transmission, GABAergic; regulation of inhibitory postsynaptic membrane potential	synaptic transmission, cholinergic; positive regulation of acetylcholine secretion, neurotransmission; postsynaptic density; asymmetric synapse; synaptic transmission, glutamatergic; presynaptic membrane; postsynaptic membrane; regulation of synaptic plasticity; presynaptic active zone; positive regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential
+AGRN	Agrn	Agrn		synaptic transmission; regulation of synaptic growth at neuromuscular junction; synapse; neurotransmitter receptor metabolic process; positive regulation of synaptic growth at neuromuscular junction	synaptic transmission; synapse assembly; synapse
+ALS2	Als2	Als2		postsynaptic density; synaptic transmission, glutamatergic	
+AMPH	Amph	Amph		synaptic vesicle; synaptic vesicle endocytosis	terminal bouton
+AMPH	LOC100910792	Amph		synaptic vesicle; synaptic vesicle endocytosis	
+ANAPC2	Anapc2	Anapc2		positive regulation of synaptic plasticity; positive regulation of synapse maturation	
+ANK3	Ank3	Ank3		synapse	neuromuscular junction; postsynaptic membrane
+AP3B1		Ap3b1		anterograde synaptic vesicle transport	synaptic vesicle membrane
+AP3B2	Ap3b2	Ap3b2		anterograde synaptic vesicle transport	
+AP3D1	Ap3d1	Ap3d1		terminal bouton; anterograde synaptic vesicle transport	
+AP3M1	Ap3m1	Ap3m1		anterograde synaptic vesicle transport	
+AP3M2	Ap3m2	Ap3m2		anterograde synaptic vesicle transport	
+AP3S1	Ap3s1	Ap3s1		anterograde synaptic vesicle transport	
+AP3S2	Ap3s2	Ap3s2		anterograde synaptic vesicle transport	
+APBA1	Apba1	Apba1		synaptic transmission; synaptic transmission	
+APBA2	Apba2	Apba2		synaptic transmission	
+APBA3	Apba3	Apba3		synaptic transmission	
+APP	App	App	synapse	neuromuscular junction; synaptic growth at neuromuscular junction	synaptic vesicle; terminal bouton
+ARFGAP1	Arfgap1	Arfgap1		synapse; neuronal postsynaptic density	
+ARHGEF15	Arhgef15	Arhgef15		negative regulation of synapse maturation	
+ARHGEF2	Arhgef2	Arhgef2		neuronal postsynaptic density	
+ARR3	Arr3	Arr3		synapse	
+ARRB2	Arrb2	Arrb2		positive regulation of synaptic transmission, dopaminergic	postsynaptic density; postsynaptic membrane
+ASIC1	Asic1	Asic1		synapse; negative regulation of neurotransmitter secretion	
+ASIC2	Asic2	Asic2		synapse; positive regulation of synapse assembly	
+ATAD1	Atad1	Atad1		postsynaptic membrane; negative regulation of synaptic transmission, glutamatergic	
+ATP1A1	Atp1a1	Atp1a1		neuronal postsynaptic density	
+ATP2A2	Atp2a2	Atp2a2		regulation of calcium ion-dependent exocytosis of neurotransmitter	
+ATP2B2	Atp2b2	Atp2b2		regulation of synaptic plasticity	
+ATP6V1G1	Atp6v1g1	Atp6v1g1		synaptic vesicle	
+ATP6V1G2	Atp6v1g2	Atp6v1g2		integral component of synaptic vesicle membrane	
+ATXN1	Atxn1	Atxn1		regulation of excitatory postsynaptic membrane potential	
+BAIAP2	Baiap2	Baiap2		regulation of synaptic plasticity	
+BDNF	Bdnf	Bdnf	positive regulation of synapse assembly	negative regulation of synaptic transmission, GABAergic; regulation of synaptic plasticity; regulation of inhibitory postsynaptic membrane potential	synaptic vesicle; terminal bouton; regulation of long-term neuronal synaptic plasticity; positive regulation of long-term neuronal synaptic plasticity; regulation of short-term neuronal synaptic plasticity; regulation of excitatory postsynaptic membrane potential
+BHLHB9	Bhlhb9	Bhlhb9		positive regulation of synapse assembly	
+BLOC1S1	Bloc1s1	Bloc1s1		anterograde synaptic vesicle transport	
+BLOC1S2	Bloc1s2	Bloc1s2		anterograde synaptic vesicle transport	
+BLOC1S3	Bloc1s3	Bloc1s3		anterograde synaptic vesicle transport	
+BLOC1S4	Bloc1s4	Bloc1s4		anterograde synaptic vesicle transport	
+BLOC1S5	Bloc1s5	Bloc1s5		anterograde synaptic vesicle transport	
+BLOC1S6	Bloc1s6	Bloc1s6		anterograde synaptic vesicle transport	
+BMPR2	Bmpr2	Bmpr2		neuronal postsynaptic density	
+BNIP3	Bnip3	Bnip3		neuronal postsynaptic density	
+BRAF	Braf	Braf		long-term synaptic potentiation; negative regulation of synaptic vesicle exocytosis	
+BSN	Bsn	Bsn		postsynaptic density; synapse; presynaptic active zone; neuronal postsynaptic density	presynaptic active zone; excitatory synapse
+BTBD9	Btbd9	Btbd9		regulation of synaptic vesicle endocytosis	
+CACNA1A	Cacna1a	Cacna1a		synaptic transmission; neuron-neuron synaptic transmission; neuromuscular synaptic transmission; synapse assembly; regulation of acetylcholine secretion, neurotransmission; synaptic transmission, glutamatergic; synaptic transmission, GABAergic; rhythmic synaptic transmission	synaptic transmission
+CACNA1C	Cacna1c	Cacna1c	postsynaptic density	synaptic transmission	postsynaptic density; presynaptic membrane
+CACNA1G	Cacna1g	Cacna1g		synaptic transmission	
+CACNA2D2	Cacna2d2	Cacna2d2		rhythmic synaptic transmission	
+CACNB2	Cacnb2	Cacnb2		synaptic transmission	
+CACNB4	Cacnb4	Cacnb4	synapse	synaptic transmission, glutamatergic; synaptic transmission, GABAergic	
+CACNG8	Cacng8	Cacng8		postsynaptic density	
+CADM1	Cadm1	Cadm1		synapse assembly; synaptic vesicle; synapse	
+CADPS	Cadps	Cadps		synaptic vesicle priming	
+CADPS2	Cadps2	Cadps2		synaptic vesicle; synaptic vesicle priming; presynaptic membrane; postsynaptic membrane	
+CALB1	Calb1	Calb1		synapse	terminal bouton; regulation of synaptic plasticity
+CALCB	Calca	Calca		terminal bouton	
+CAMK2A	Camk2a	Camk2a		regulation of neurotransmitter secretion; regulation of neuronal synaptic plasticity; neuronal postsynaptic density	
+CAMK2B	Camk2b	Camk2b		regulation of synaptic transmission, cholinergic; regulation of long-term neuronal synaptic plasticity; neuronal postsynaptic density	long-term synaptic potentiation; positive regulation of synapse maturation
+CAMK2D	Camk2d	Camk2d		neuromuscular junction	
+CAMK2G	Camk2g	Camk2g		neuronal postsynaptic density	
+CAMK2N1	Camk2n1	Camk2n1		postsynaptic density; synapse	
+CAMK4	Camk4	Camk4		neuron-neuron synaptic transmission	
+CANX	Canx	Canx		synaptic vesicle endocytosis	
+CAP2	Cap2	Cap2		neuronal postsynaptic density	
+CASK	Cask	Cask		synapse	presynaptic membrane; synaptic membrane
+CBLN1	Cbln1	Cbln1		synapse; positive regulation of synapse assembly; positive regulation of synapse assembly	
+CBLN2	Cbln2	Cbln2		positive regulation of synapse assembly	
+CBLN3	Cbln3	Cbln3		synapse	
+CDC20	Cdc20	Cdc20		positive regulation of synaptic plasticity; positive regulation of synapse maturation	
+CDH15	Cdh15	Cdh15		neuromuscular junction	
+CDH2	Cdh2	Cdh2		synapse	synapse assembly; synapse
+CDH23	Cdh23	Cdh23		synapse	
+CDH8	Cdh8	Cdh8		synaptic transmission; synaptic transmission, glutamatergic; synaptic cleft	
+CDK16	Cdk16	Cdk16		synaptic vesicle	synaptic vesicle
+CDK5	Cdk5	Cdk5		synaptic transmission, dopaminergic; synapse assembly; negative regulation of synaptic plasticity; synaptic transmission, glutamatergic; regulation of postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential	postsynaptic density; neuromuscular junction; regulation of synaptic plasticity; synaptic vesicle endocytosis
+CELF4		Celf4		negative regulation of excitatory postsynaptic membrane potential	synaptic vesicle membrane
+CHAT	Chat	Chat		synaptic transmission; neuromuscular synaptic transmission; rhythmic excitation	
+CHRM2	LOC102551851	Chrm2	G-protein coupled acetylcholine receptor activity	synaptic transmission; G-protein coupled acetylcholine receptor activity	
+CHRM4	Chrm4	Chrm4		synaptic transmission; G-protein coupled acetylcholine receptor activity	postsynaptic density; asymmetric synapse
+CHRNA1	Chrna1	Chrna1	neuromuscular synaptic transmission; neuromuscular junction	acetylcholine receptor activity; neuromuscular junction	
+CHRNA10	Chrna10	Chrna10		synaptic transmission, cholinergic	
+CHRNA3	Chrna3	Chrna3	acetylcholine receptor activity; synaptic transmission involved in micturition	synaptic transmission, cholinergic; regulation of acetylcholine secretion, neurotransmission; regulation of excitatory postsynaptic membrane potential; synaptic transmission involved in micturition	synaptic transmission; postsynaptic density; acetylcholine receptor activity
+CHRNA4	Chrna4	Chrna4	acetylcholine receptor activity	synaptic transmission, cholinergic; synaptic transmission, cholinergic; regulation of inhibitory postsynaptic membrane potential	synaptic transmission, cholinergic
+CHRNA7	Chrna7	Chrna7	acetylcholine receptor activity	synaptic transmission, cholinergic; regulation of synaptic transmission, dopaminergic	synaptic transmission, cholinergic; postsynaptic density; asymmetric synapse; presynaptic membrane
+CHRNB2	Chrnb2	Chrnb2	acetylcholine receptor activity	regulation of synaptic transmission, dopaminergic; positive regulation of synaptic transmission, dopaminergic; regulation of synapse assembly; synaptic transmission involved in micturition	synaptic transmission, cholinergic
+CHRNB4	Chrnb4	Chrnb4	acetylcholine receptor activity; synaptic transmission involved in micturition	synaptic transmission involved in micturition; synaptic transmission involved in micturition	
+CHRNE	Chrne	Chrne		postsynaptic membrane	
+CHRNG	Chrng	Chrng		postsynaptic membrane	
+CIB2	Cib2	Cib2		neuromuscular junction	
+CLCN3	Clcn3	Clcn3		synaptic vesicle	
+CLSTN1	Clstn1	Clstn1		postsynaptic membrane	
+CLSTN2	Clstn2	Clstn2		postsynaptic membrane	postsynaptic membrane
+CLSTN3	Clstn3	Clstn3		synapse assembly; synapse assembly; synaptic transmission, glutamatergic; postsynaptic membrane; synaptic transmission, GABAergic	postsynaptic membrane
+CNIH2	Cnih2	Cnih2		postsynaptic density	synaptic transmission, glutamatergic; postsynaptic membrane
+CNKSR2	Cnksr2	Cnksr2		neuronal postsynaptic density	postsynaptic membrane
+CNTN2	Cntn2	Cntn2		regulation of neuronal synaptic plasticity	synapse
+CNTNAP4	Cntnap4	Cntnap4		regulation of synaptic transmission, dopaminergic; regulation of synaptic transmission, GABAergic; presynaptic membrane	
+COL4A5		Col4a5		neuromuscular junction	synaptic vesicle membrane
+CPEB1	Cpeb1	Cpeb1		regulation of neuronal synaptic plasticity	
+CPEB3	Cpeb3	Cpeb3		synapse; regulation of synaptic plasticity	
+CPEB4	Cpeb4	Cpeb4		postsynaptic density; synapse	
+CPLX1	Cplx1	Cplx1		synaptic vesicle exocytosis	synaptic vesicle exocytosis; terminal bouton; synapse
+CPLX2	Cplx2	Cplx2		positive regulation of synaptic plasticity	synaptic vesicle exocytosis; terminal bouton; synapse
+CPLX3	Cplx3	Cplx3		synaptic vesicle exocytosis; synapse; regulation of neurotransmitter secretion	
+CPLX4	Cplx4	Cplx4		synapse; regulation of neurotransmitter secretion	
+CRHBP	Crhbp	Crhbp		synaptic transmission, dopaminergic	synaptic transmission, dopaminergic
+CSPG5	Cspg5	Cspg5		regulation of synaptic transmission	
+CTBP2	Ctbp2	Ctbp2		synapse	
+CTNNA2	Ctnna2	Ctnna2		neuronal postsynaptic density	
+CTNNB1	Ctnnb1	Ctnnb1		synaptic transmission; synaptic vesicle transport	synapse
+CTNND2	Ctnnd2	Ctnnd2		postsynaptic density; regulation of synaptic plasticity	postsynaptic density
+CUX2	Cux2	Cux2		positive regulation of synapse assembly; positive regulation of excitatory postsynaptic membrane potential	
+DAB2IP	Dab2ip	Dab2ip		positive regulation of synapse maturation	
+DBI	Dbi	Dbi		long-term synaptic potentiation	synaptic vesicle; regulation of synaptic transmission, GABAergic
+DBNL	Dbnl	Dbnl		synapse assembly	postsynaptic density
+DCLK1		Dclk1		neuronal postsynaptic density	synaptic vesicle membrane
+DENND1A	Dennd1a	Dennd1a		synapse; synaptic vesicle endocytosis	
+DES	Des	Des		neuromuscular junction	
+DISC1	Disc1	Disc1		regulation of synapse maturation	
+DLG1	Dlg1	Dlg1		postsynaptic density; neuromuscular junction; synapse	postsynaptic density; presynaptic membrane
+DLG2	Dlg2	Dlg2		synaptic transmission; postsynaptic membrane; neuronal postsynaptic density	
+DLG4	Dlg4	Dlg4	synapse; postsynaptic membrane	synaptic vesicle; postsynaptic density; synaptic vesicle maturation; synaptic vesicle maturation; synapse; postsynaptic membrane; regulation of long-term neuronal synaptic plasticity; excitatory synapse; synaptic membrane; neuronal postsynaptic density	postsynaptic density; synapse; postsynaptic membrane; positive regulation of synaptic transmission; excitatory synapse; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering; neuronal postsynaptic density; positive regulation of excitatory postsynaptic membrane potential
+DLGAP1	Dlgap1	Dlgap1		synapse; neuronal postsynaptic density	synapse; postsynaptic membrane
+DLGAP3	Dlgap3	Dlgap3		synapse	
+DLGAP4	Dlgap4	Dlgap4		synapse	
+DMD		Dmd		synapse; neurotransmitter receptor metabolic process	synaptic vesicle membrane
+DMPK	Dmpk	Dmpk		regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction	
+DNAJA3	Dnaja3	Dnaja3		neuromuscular junction; postsynaptic membrane	
+DNAJC5	Dnajc5	Dnajc5		synaptic vesicle	terminal bouton
+DNAJC6	Dnajc6	Dnajc6		synapse; neuronal postsynaptic density	
+DNM1	Dnm1	Dnm1		synaptic transmission, GABAergic	
+DOK7	Dok7	Dok7		neuromuscular junction	
+DRD1	Drd1	Drd1	dopamine neurotransmitter receptor activity, coupled via Gs; dopamine neurotransmitter receptor activity, coupled via Gs; dopamine neurotransmitter receptor activity	dopamine neurotransmitter receptor activity, coupled via Gs; dopamine neurotransmitter receptor activity, coupled via Gs; synaptic transmission, dopaminergic; dopamine neurotransmitter receptor activity; synaptic transmission; positive regulation of synaptic transmission, glutamatergic; long-term synaptic potentiation; long term synaptic depression	dopamine neurotransmitter receptor activity, coupled via Gs; dopamine neurotransmitter receptor activity, coupled via Gs; synaptic transmission, dopaminergic; synaptic transmission, dopaminergic; synapse assembly; regulation of long-term neuronal synaptic plasticity
+DRD2	Drd2	Drd2	dopamine neurotransmitter receptor activity, coupled via Gi/Go	dopamine neurotransmitter receptor activity, coupled via Gi/Go; dopamine neurotransmitter receptor activity, coupled via Gi/Go; dopamine neurotransmitter receptor activity; synaptic transmission; neuron-neuron synaptic transmission; regulation of synaptic transmission, GABAergic; regulation of synaptic transmission, GABAergic; regulation of long-term neuronal synaptic plasticity; regulation of synaptic transmission; regulation of dopamine uptake involved in synaptic transmission; positive regulation of dopamine uptake involved in synaptic transmission; negative regulation of synaptic transmission, glutamatergic	dopamine neurotransmitter receptor activity, coupled via Gi/Go; synaptic transmission, dopaminergic; synaptic transmission, dopaminergic; dopamine neurotransmitter receptor activity; synapse assembly; postsynaptic density; synaptic vesicle membrane; regulation of synaptic transmission
+DRD3	Drd3	Drd3	dopamine neurotransmitter receptor activity, coupled via Gi/Go	dopamine neurotransmitter receptor activity, coupled via Gi/Go; synaptic transmission	dopamine neurotransmitter receptor activity, coupled via Gi/Go; synaptic transmission, dopaminergic; dopamine neurotransmitter receptor activity
+DRD4	Drd4	Drd4	dopamine neurotransmitter receptor activity, coupled via Gi/Go; dopamine neurotransmitter receptor activity	dopamine neurotransmitter receptor activity, coupled via Gi/Go; regulation of inhibitory postsynaptic membrane potential	dopamine neurotransmitter receptor activity, coupled via Gi/Go; synaptic transmission, dopaminergic; synaptic transmission, dopaminergic; terminal bouton; regulation of neurotransmitter secretion; regulation of synaptic transmission; positive regulation of excitatory postsynaptic membrane potential
+DRD5	Drd5	Drd5	dopamine neurotransmitter receptor activity	dopamine neurotransmitter receptor activity, coupled via Gs; dopamine neurotransmitter receptor activity, coupled via Gs; synaptic transmission; long term synaptic depression	dopamine neurotransmitter receptor activity, coupled via Gs; synaptic transmission, dopaminergic; dopamine neurotransmitter receptor activity; regulation of long-term neuronal synaptic plasticity
+DTNA	Dtna	Dtna		synapse	
+DTNB	Dtnb	Dtnb		synapse	
+DTNBP1	Dtnbp1	Dtnbp1	postsynaptic density; synaptic vesicle membrane	positive regulation of neurotransmitter secretion; postsynaptic density; synaptic vesicle membrane; anterograde synaptic vesicle transport	synaptic vesicle membrane
+DVL1	Dvl1	Dvl1		synapse	
+EDN1	Edn1	Edn1		rhythmic excitation	
+EGR3	Egr3	Egr3		neuromuscular synaptic transmission	
+ELFN1	Elfn1	Elfn1		excitatory synapse	
+EPB41L1	Epb41l1	Epb4.1l1		neuronal postsynaptic density	synaptic membrane
+EPB41L1	LOC100911769	Epb4.1l1		neuronal postsynaptic density	
+EPHA5	Epha5	Epha5		negative regulation of synapse assembly	
+EPHB1	Ephb1	Ephb1		positive regulation of synapse assembly	
+EPHB2	Ephb2	Ephb2		regulation of neuronal synaptic plasticity; positive regulation of long-term neuronal synaptic plasticity; positive regulation of synapse assembly; positive regulation of synapse assembly	
+EPHB3	Ephb3	Ephb3		positive regulation of synapse assembly	
+EPS8	Eps8	Eps8		postsynaptic density; synapse	
+ERC1	Erc1	Erc1		synapse	
+ERC2	Erc2	Erc2		synapse	postsynaptic density; presynaptic membrane; terminal bouton
+ETV5	Etv5	Etv5		neuromuscular synaptic transmission	
+FBXO45	Fbxo45	Fbxo45		postsynaptic density; synapse; synapse assembly involved in innervation	
+FGF12	Fgf12	Fgf12		synaptic transmission	
+FGF14	Fgf14	Fgf14		synaptic transmission	
+FGFR2	Fgfr2	Fgfr2		synaptic vesicle transport; excitatory synapse	
+FNTA	Fnta	Fnta		neurotransmitter receptor metabolic process	
+FSHR	Fshr	Fshr		regulation of acetylcholine metabolic process	
+FZD3	Fzd3	Fzd3		presynaptic active zone	
+GABBR1	Gabbr1	Gabbr1		presynaptic membrane; postsynaptic membrane	synaptic vesicle; negative regulation of synaptic transmission
+GABRG1	Gabrg1	Gabrg1		synaptic transmission	
+GABRG2	Gabrg2	Gabrg2		synaptic transmission	synaptic transmission, GABAergic; inhibitory synapse
+GAD1	Gad1	Gad1		synapse; presynaptic active zone	
+GAD2	Gad2	Gad2		synapse	synaptic vesicle membrane
+GAP43	Gap43	Gap43		postsynaptic density; neuronal postsynaptic density	
+GFAP	Gfap	Gfap		regulation of neurotransmitter uptake; long-term synaptic potentiation	
+GHRH	Ghrh	Ghrh		terminal bouton	
+GHRL	Ghrl	Ghrl	positive regulation of synapse assembly	positive regulation of synapse assembly; regulation of excitatory postsynaptic membrane potential	
+GHSR	Ghsr	Ghsr		regulation of synapse assembly	
+GIPC1	Gipc1	Gipc1		synaptic transmission; synaptic vesicle; regulation of synaptic plasticity	
+GJA10	Gja10	Gja10		synapse assembly	
+GJC1	Gjc1	Gjc1		synaptic transmission	
+GJD2	Gjd2	Gjd2		synaptic transmission	
+GLRA1	Glra1	Glra1		synaptic transmission; postsynaptic membrane; synaptic transmission, glycinergic; inhibitory synapse; regulation of inhibitory postsynaptic membrane potential	synaptic transmission, glycinergic
+GLRB	Glrb	Glrb	synaptic transmission	synaptic transmission, glycinergic	synaptic transmission, glycinergic
+GLS	Gls	Gls		synaptic transmission	
+GNG3	Gng3	Gng3		neuronal postsynaptic density	
+GNPAT	Gnpat	Gnpat		synapse assembly	
+GOPC		Gopc		synapse	synaptic vesicle membrane
+GPHN	Gphn	Gphn		inhibitory synapse; glycine receptor clustering	synapse assembly; synapse; inhibitory synapse
+GPM6B		Gpm6b		negative regulation of serotonin uptake	synaptic vesicle membrane
+GPR139	Gpr139	Gpr139		synaptic transmission; neuropeptide receptor activity	
+GRIA1	Gria1	Gria1		synaptic transmission; synaptic vesicle; postsynaptic density; synapse; postsynaptic membrane; long term synaptic depression	postsynaptic density; neuromuscular junction; asymmetric synapse; synapse; synapse; regulation of synaptic plasticity; regulation of synaptic transmission; positive regulation of synaptic transmission; excitatory synapse
+GRIA2	Gria2	Gria2		synaptic transmission; synaptic vesicle; synapse; postsynaptic membrane	synaptic transmission; postsynaptic density; synaptic vesicle membrane; asymmetric synapse; presynaptic membrane; terminal bouton; synapse; positive regulation of synaptic transmission; regulation of synaptic transmission, glutamatergic
+GRIA3	Gria3	Gria3		postsynaptic membrane	postsynaptic density; asymmetric synapse; synaptic cleft; terminal bouton
+GRIA4	Gria4	Gria4		synapse	synaptic transmission; postsynaptic density; terminal bouton; synapse; regulation of synaptic transmission; positive regulation of synaptic transmission, glutamatergic
+GRID2	Grid2	Grid2		synaptic transmission, glutamatergic; synapse; postsynaptic membrane; regulation of excitatory postsynaptic membrane potential	postsynaptic density; postsynaptic membrane
+GRID2IP	Grid2ip	Grid2ip		synapse; long term synaptic depression	
+GRIK1	Grik1	Grik1		postsynaptic density; positive regulation of synaptic transmission, GABAergic; synaptic transmission, glutamatergic; synaptic transmission, glutamatergic; presynaptic membrane; synapse; negative regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; regulation of inhibitory postsynaptic membrane potential; regulation of inhibitory postsynaptic membrane potential; neuronal postsynaptic density	negative regulation of synaptic transmission, GABAergic; positive regulation of synaptic transmission, GABAergic; terminal bouton; regulation of short-term neuronal synaptic plasticity; negative regulation of synaptic transmission, glutamatergic
+GRIK2	Grik2	Grik2	regulation of short-term neuronal synaptic plasticity; regulation of synaptic transmission; positive regulation of synaptic transmission	synaptic transmission; synaptic transmission; postsynaptic density; synaptic transmission, glutamatergic; presynaptic membrane; synapse; postsynaptic membrane; regulation of long-term neuronal synaptic plasticity; regulation of short-term neuronal synaptic plasticity; negative regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; regulation of inhibitory postsynaptic membrane potential; regulation of inhibitory postsynaptic membrane potential	synaptic transmission; terminal bouton; synapse; negative regulation of synaptic transmission, glutamatergic
+GRIK4	Grik4	Grik4		presynaptic membrane; synapse; postsynaptic membrane	terminal bouton
+GRIK5	Grik5	Grik5		regulation of synaptic vesicle fusion to presynaptic membrane; synaptic transmission, glutamatergic; presynaptic membrane; postsynaptic membrane; regulation of excitatory postsynaptic membrane potential	synaptic transmission; postsynaptic density; terminal bouton
+GRIN1	Grin1	Grin1		synaptic vesicle; postsynaptic density; synaptic transmission, glutamatergic; synapse; postsynaptic membrane; regulation of synaptic plasticity; regulation of neuronal synaptic plasticity; regulation of long-term neuronal synaptic plasticity; regulation of synapse assembly; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; neuronal postsynaptic density	postsynaptic density; synaptic cleft; terminal bouton; synapse; excitatory synapse; positive regulation of excitatory postsynaptic membrane potential
+GRIN2A	Grin2a	Grin2a		synaptic transmission; synaptic vesicle; postsynaptic density; presynaptic membrane; synapse; postsynaptic membrane; regulation of synaptic plasticity; regulation of synaptic transmission; regulation of postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; neuronal postsynaptic density	synaptic transmission; postsynaptic density; presynaptic membrane; terminal bouton; regulation of long-term neuronal synaptic plasticity; regulation of excitatory postsynaptic membrane potential; positive regulation of excitatory postsynaptic membrane potential
+GRIN2B	Grin2b	Grin2b		synaptic transmission; synaptic vesicle; postsynaptic density; presynaptic membrane; synapse; postsynaptic membrane; regulation of synaptic plasticity; regulation of postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential; neuronal postsynaptic density	postsynaptic density; presynaptic membrane; synaptic cleft; terminal bouton; synapse; regulation of long-term neuronal synaptic plasticity; positive regulation of synaptic transmission
+GRIN2C	Grin2c	Grin2c		postsynaptic density; regulation of excitatory postsynaptic membrane potential; regulation of excitatory postsynaptic membrane potential	
+GRIN2D	Grin2d	Grin2d		synapse; regulation of excitatory postsynaptic membrane potential	synaptic transmission, glutamatergic
+GRIN3A	Grin3a	Grin3a	synapse	postsynaptic membrane	postsynaptic membrane
+GRM1	Grm1	Grm1		postsynaptic density	synaptic transmission; postsynaptic density; presynaptic membrane; regulation of synaptic transmission, glutamatergic
+GRM2	Grm2	Grm2		synaptic transmission	presynaptic membrane
+GRM3	Grm3	Grm3		postsynaptic density; presynaptic membrane; postsynaptic membrane	regulation of synaptic transmission
+GRM4	Grm4	Grm4		synaptic transmission	terminal bouton; presynaptic active zone membrane
+GRM5	Grm5	Grm5		regulation of long-term neuronal synaptic plasticity	synaptic transmission; postsynaptic density; positive regulation of long-term neuronal synaptic plasticity
+GRM7	Grm7	Grm7	synaptic transmission	synaptic transmission; presynaptic membrane	asymmetric synapse; presynaptic membrane; terminal bouton; synapse; postsynaptic membrane; presynaptic active zone
+GSG1L	Gsg1l	Gsg1l		asymmetric synapse	
+GSK3B	Gsk3b	Gsk3b		neuronal postsynaptic density	regulation of neuronal synaptic plasticity
+HDAC4	Hdac4	Hdac4		neuromuscular junction	
+HOMER1	Homer1	Homer1		neuronal postsynaptic density	synapse; excitatory synapse; neuronal postsynaptic density
+HOMER3	Homer3	Homer3		postsynaptic density	
+HRH1	Hrh1	Hrh1		regulation of synaptic plasticity	synaptic transmission
+HRH2	Hrh2	Hrh2		regulation of synaptic plasticity	
+HTT	Htt	Htt		regulation of synaptic plasticity	postsynaptic density
+ICA1	Ica1	Ica1		synaptic vesicle membrane	
+IGSF8	Igsf8	Igsf8		synapse	
+IGSF9	Igsf9	Igsf9		inhibitory synapse	
+IGSF9B	Igsf9b	Igsf9b		inhibitory synapse; positive regulation of inhibitory postsynaptic membrane potential	
+IL1RAPL1	Il1rapl1	Il1rapl1		presynaptic membrane assembly	
+IQSEC3	Iqsec3	Iqsec3		postsynaptic membrane; inhibitory synapse	
+ITGA3	Itga3	Itga3		synapse; excitatory synapse; synaptic membrane	
+ITGA5	Itga5	Itga5		synapse	
+ITGA7	Itga7	Itga7		neuromuscular junction	
+ITGB1	Itgb1	Itgb1	neuromuscular junction	neuromuscular junction; synapse; synaptic membrane	
+ITPKA	Itpka	Itpka		regulation of synaptic plasticity	
+ITPR1	Itpr1	Itpr1		postsynaptic density	postsynaptic density; synaptic membrane
+ITPR3	Itpr3	Itpr3		long-term synaptic potentiation	
+JPH3	Jph3	Jph3		regulation of neuronal synaptic plasticity; regulation of neuronal synaptic plasticity	
+JPH4	Jph4	Jph4		regulation of synaptic plasticity	
+KCNC3	Kcnc3	Kcnc3		neuromuscular junction; regulation of neurotransmitter secretion	
+KCNC4	Kcnc4	Kcnc4		neuromuscular junction; regulation of neurotransmitter secretion	
+KCNJ10	Kcnj10	Kcnj10		regulation of long-term neuronal synaptic plasticity	
+KCNMA1	Kcnma1	Kcnma1		synaptic transmission; terminal bouton; postsynaptic membrane	presynaptic active zone membrane
+KCTD16	Kctd16	Kctd16		presynaptic membrane; postsynaptic membrane	
+KIF1B	Kif1b	Kif1b		neuron-neuron synaptic transmission; neuromuscular synaptic transmission	
+KIF5B	Kif5b	Kif5b		positive regulation of synaptic transmission, GABAergic	
+KRAS	Kras	Kras		regulation of synaptic transmission, GABAergic; regulation of long-term neuronal synaptic plasticity	
+L1CAM	L1cam	L1cam		presynaptic membrane; terminal bouton	
+LAMA2	Lama2	Lama2		positive regulation of synaptic transmission, cholinergic	
+LAMB2	Lamb2	Lamb2		synapse	
+LAMP1	Lamp1	Lamp1		synaptic vesicle	
+LGI3	Lgi3	Lgi3		synaptic vesicle	
+LIN7A	LOC100911013	Lin7a		synaptic vesicle transport	
+LIN7C	Lin7c	Lin7c		synapse	synapse
+LRP4	Lrp4	Lrp4		neuromuscular junction; synaptic growth at neuromuscular junction; synaptic growth at neuromuscular junction; postsynaptic membrane assembly; presynaptic membrane assembly	postsynaptic density; synaptic membrane
+LRP8	Lrp8	Lrp8		regulation of synaptic transmission	postsynaptic density
+LRRC4	Lrrc4	Lrrc4		synapse; postsynaptic membrane; excitatory synapse	
+LRRC4B	Lrrc4b	Lrrc4b		positive regulation of synapse assembly	
+LRRK2	Lrrk2	Lrrk2	regulation of synaptic vesicle exocytosis	synaptic vesicle; synapse	
+LRRTM1	LRRTM1	Lrrtm1		long-term synaptic potentiation	
+LRRTM2	Lrrtm2	Lrrtm2		long-term synaptic potentiation	excitatory synapse
+LRRTM4	Lrrtm4	Lrrtm4		postsynaptic membrane; neurotransmitter-gated ion channel clustering; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering	
+MAGEE1	Magee1	Magee1		postsynaptic membrane	
+MAP1A	Map1a	Map1a		neuronal postsynaptic density	
+MAP1B	Map1b	Map1b		postsynaptic density; neuronal postsynaptic density	synapse assembly; postsynaptic density; induction of synaptic plasticity by chemical substance
+MAP2	Map2	Map2		postsynaptic density; neuronal postsynaptic density	
+MAP4	Map4	Map4		neuronal postsynaptic density	
+MAPK10	Mapk10	Mapk10		neuronal postsynaptic density	
+MAPK8IP1	Mapk8ip1	Mapk8ip1		synapse	
+MAPK8IP2	Mapk8ip2	Mapk8ip2		regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential; neuronal postsynaptic density	
+MAPT	Mapt	Mapt		postsynaptic density	
+MECP2	Mecp2	Mecp2		synaptic transmission; synapse assembly; regulation of synaptic plasticity; positive regulation of synapse assembly; regulation of excitatory postsynaptic membrane potential; long-term synaptic potentiation	
+MEF2C	Mef2c	Mef2c		regulation of synaptic activity	
+MET	Met	Met		regulation of synaptic transmission; regulation of excitatory postsynaptic membrane potential	postsynaptic density; postsynaptic membrane; excitatory synapse
+MGLL	Mgll	Mgll		synapse; long term synaptic depression	synapse
+MME	Mme	Mme		synaptic vesicle; synapse	
+MPP4	Mpp4	Mpp4		presynaptic membrane	
+MRGPRX3	Mrgprx3	Mrgpra1		synaptic transmission; neuropeptide receptor activity	
+MUSK	Musk	Musk		regulation of synaptic growth at neuromuscular junction; neuromuscular junction; postsynaptic membrane	neuromuscular junction; positive regulation of synaptic transmission, cholinergic; positive regulation of synaptic growth at neuromuscular junction; long-term synaptic potentiation
+MYH10	Myh10	Myh10		neuromuscular junction	
+MYH9	Myh9	Myh9		neuromuscular junction	
+MYLK2	Mylk2	Mylk2		neuromuscular synaptic transmission; neuromuscular synaptic transmission	synaptic vesicle; postsynaptic density; terminal bouton; regulation of neuronal synaptic plasticity; synaptic vesicle transport
+MYO5A	Myo5a	Myo5a		synaptic transmission	synaptic vesicle
+MYO6	Myo6	Myo6		synaptic transmission; synapse assembly; regulation of synaptic plasticity	
+MYO7A	Myo7a	Myo7a	synapse	synapse	synapse
+MYRIP	Myrip	Myrip		synapse	
+NAPA	Napa	Napa		regulation of synaptic vesicle priming; synaptic transmission, glutamatergic	terminal bouton
+NAPB	Napb	Napb		regulation of synaptic vesicle priming; synaptic transmission, glutamatergic	
+NAT8L	Nat8l	Nat8l		positive regulation of dopamine uptake involved in synaptic transmission	
+NEFH	Nefh	Nefh		neuronal postsynaptic density	
+NETO1	Neto1	Neto1		postsynaptic density; synapse; regulation of long-term neuronal synaptic plasticity; excitatory synapse; positive regulation of excitatory postsynaptic membrane potential	
+NETO2	Neto2	Neto2		postsynaptic density; synapse; positive regulation of excitatory postsynaptic membrane potential	
+NEUROD2	Neurod2	Neurod2		positive regulation of synaptic plasticity; positive regulation of synapse maturation; negative regulation of synapse maturation	
+NF1	Nf1	Nf1		regulation of synaptic transmission, GABAergic; negative regulation of neurotransmitter secretion; negative regulation of neurotransmitter secretion; regulation of long-term neuronal synaptic plasticity; regulation of long-term neuronal synaptic plasticity	postsynaptic density
+NGF	Ngf	Ngf		regulation of neurotransmitter secretion	
+NGFR	Ngfr	Ngfr		neuronal postsynaptic density	positive regulation of synaptic transmission, cholinergic; positive regulation of synaptic transmission, glutamatergic
+NIPSNAP1	Nipsnap1	Nipsnap1		synaptic membrane	
+NLGN1	Nlgn1	Nlgn1		synapse assembly; synaptic vesicle targeting; synapse; regulation of synaptic transmission; positive regulation of synapse assembly; regulation of inhibitory postsynaptic membrane potential; postsynaptic membrane assembly; presynaptic membrane assembly; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering; positive regulation of synaptic vesicle endocytosis; positive regulation of synaptic vesicle exocytosis; positive regulation of excitatory postsynaptic membrane potential	synapse assembly; positive regulation of synaptic transmission, GABAergic; synapse; positive regulation of synapse assembly; positive regulation of synaptic transmission, glutamatergic; positive regulation of synaptic transmission, glutamatergic; regulation of inhibitory postsynaptic membrane potential; presynaptic membrane assembly; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering; N-methyl-D-aspartate receptor clustering; positive regulation of synaptic vesicle endocytosis; positive regulation of synaptic vesicle exocytosis; positive regulation of excitatory postsynaptic membrane potential; positive regulation of excitatory postsynaptic membrane potential
+NLGN2	Nlgn2	Nlgn2		positive regulation of synaptic transmission, GABAergic; synapse; regulation of synaptic transmission; positive regulation of synaptic transmission, glutamatergic; postsynaptic membrane assembly; presynaptic membrane assembly; presynaptic membrane assembly; positive regulation of inhibitory postsynaptic membrane potential; positive regulation of excitatory postsynaptic membrane potential	synapse assembly; positive regulation of synapse assembly; inhibitory synapse; presynaptic membrane assembly; positive regulation of inhibitory postsynaptic membrane potential
+NLGN3	Nlgn3	Nlgn3	excitatory synapse	regulation of synaptic transmission; regulation of synaptic transmission, glutamatergic; positive regulation of synaptic transmission, glutamatergic; regulation of excitatory postsynaptic membrane potential; regulation of inhibitory postsynaptic membrane potential; postsynaptic membrane assembly; positive regulation of excitatory postsynaptic membrane potential	synapse assembly; synapse; positive regulation of synapse assembly; rhythmic synaptic transmission; excitatory synapse; regulation of inhibitory postsynaptic membrane potential; presynaptic membrane assembly
+NMNAT2	Nmnat2	Nmnat2		synapse	
+NMUR1	Nmur1	Nmur1	neuromedin U receptor activity	synaptic transmission; neuropeptide receptor activity	
+NMUR2	Nmur2	Nmur2	neuromedin U receptor activity	synaptic transmission; neuropeptide receptor activity	neuropeptide receptor activity
+NOS1	Nos1	Nos1		synapse; negative regulation of serotonin uptake	postsynaptic density; synapse
+NPAS4	Npas4	Npas4		regulation of inhibitory postsynaptic membrane potential	
+NPHP4	Nphp4	Nphp4		ribbon synapse	
+NPS	Nps	Nps		positive regulation of synaptic transmission, GABAergic; positive regulation of synaptic transmission, glutamatergic	
+NPY1R	Npy1r	Npy1r		peptide YY receptor activity; pancreatic polypeptide receptor activity; neuropeptide Y receptor activity; synaptic transmission	synaptic vesicle
+NPY2R	Npy2r	Npy2r		peptide YY receptor activity; neuropeptide Y receptor activity; synaptic transmission	peptide YY receptor activity; neuropeptide Y receptor activity; negative regulation of synaptic transmission; negative regulation of synaptic transmission, glutamatergic; negative regulation of excitatory postsynaptic membrane potential
+NPY5R	Npy5r	Npy5r		peptide YY receptor activity; pancreatic polypeptide receptor activity; neuropeptide Y receptor activity; synaptic transmission	peptide YY receptor activity; pancreatic polypeptide receptor activity; neuropeptide Y receptor activity; negative regulation of synaptic transmission, GABAergic
+NR2E1	Nr2e1	Nr2e1		long-term synaptic potentiation	
+NRCAM	Nrcam	Nrcam		synapse	
+NRXN1	Nrxn1	Nrxn1		synaptic transmission; synapse assembly; presynaptic membrane; positive regulation of synapse assembly; positive regulation of synaptic transmission, glutamatergic; positive regulation of synapse maturation; postsynaptic membrane assembly; positive regulation of excitatory postsynaptic membrane potential	
+NRXN2	Nrxn2	Nrxn2		synaptic transmission; synapse assembly	
+NSG1	Nsg1	Nsg1		postsynaptic membrane	
+NTF3	Ntf3	Ntf3		neuromuscular synaptic transmission	regulation of synaptic transmission
+NTRK2	Ntrk2	Ntrk2		terminal bouton; postsynaptic membrane; long-term synaptic potentiation; neuronal postsynaptic density	postsynaptic density; regulation of neurotransmitter secretion; presynaptic active zone; positive regulation of synaptic transmission, glutamatergic; excitatory synapse
+NTSR2	Ntsr2	Ntsr2		synaptic transmission; G-protein coupled neurotensin receptor activity	
+OPHN1	Ophn1	Ophn1		terminal bouton; synaptic vesicle endocytosis; synaptic vesicle endocytosis; regulation of synaptic transmission, glutamatergic	
+OTOF	Otof	Otof		synaptic vesicle exocytosis; synaptic vesicle exocytosis; synaptic vesicle membrane	
+P2RX1	P2rx1	P2rx1		postsynaptic membrane	synaptic transmission, glutamatergic
+P2RX2	P2rx2	P2rx2		synaptic transmission; neuromuscular synaptic transmission	postsynaptic density; presynaptic membrane; terminal bouton
+P2RX3	P2rx3	P2rx3		synaptic transmission; neuromuscular synaptic transmission; regulation of synaptic plasticity	terminal bouton
+P2RX4	P2rx4	P2rx4		regulation of excitatory postsynaptic membrane potential	postsynaptic density; terminal bouton; synapse
+P2RX7		P2rx7		synaptic vesicle exocytosis; neuromuscular junction; synapse	synaptic vesicle membrane
+PACSIN1	Pacsin1	Pacsin1		synaptic vesicle endocytosis	terminal bouton; synapse
+PAFAH1B1	Pafah1b1	Pafah1b1		synaptic transmission	
+PAK1	Pak1	Pak1		neuronal postsynaptic density	
+PALM	Palm	Palm		synapse maturation; neuronal postsynaptic density	
+PARK2	Park2	Park2		synaptic transmission, dopaminergic; synaptic transmission, glutamatergic; regulation of neurotransmitter secretion; regulation of synaptic transmission; dopamine uptake involved in synaptic transmission	synaptic vesicle; postsynaptic density; synapse
+PARK7	Park7	Park7		synaptic transmission, dopaminergic; dopamine uptake involved in synaptic transmission	
+PCDHA4	Pcdha4	Pcdha4		synapse	
+PCLO	Pclo	Pclo		postsynaptic density; synapse	synapse
+PDE2A	Pde2a	Pde2a		presynaptic membrane	
+PDPK1	Pdpk1	Pdpk1		neuronal postsynaptic density	
+PDZRN3	Pdzrn3	Pdzrn3		neuromuscular junction	
+PFN2	LOC100909840	Pfn2		terminal bouton; regulation of synaptic vesicle exocytosis	
+PFN2	Pfn2	Pfn2		terminal bouton; regulation of synaptic vesicle exocytosis	
+PI4K2A	Pi4k2a	Pi4k2a		presynaptic membrane	synaptic vesicle membrane
+PICK1	Pick1	Pick1	presynaptic membrane	synapse; neuronal postsynaptic density	postsynaptic density; synapse; long term synaptic depression
+PINK1	Pink1	Pink1		positive regulation of synaptic transmission, dopaminergic	
+PKP4	Pkp4	Pkp4		postsynaptic density	
+PLCB4	Plcb4	Plcb4		postsynaptic density	
+PLCL1	Plcl1	Plcl1		regulation of synaptic transmission, GABAergic; regulation of synaptic transmission, GABAergic	
+PLCL2	Plcl2	Plcl2		regulation of synaptic transmission, GABAergic	
+PLK2	Plk2	Plk2		regulation of synaptic plasticity	regulation of synaptic plasticity; regulation of synaptic plasticity; long-term synaptic potentiation; long term synaptic depression
+PLXND1	Plxnd1	Plxnd1		synapse assembly	
+PNKD	Pnkd	Pnkd		regulation of synaptic transmission, dopaminergic	
+PPFIA2	Ppfia2	Ppfia2		synapse	
+PPP3CA	Ppp3ca	Ppp3ca		regulation of synaptic transmission; regulation of excitatory postsynaptic membrane potential	
+PRKACA	Prkaca	Prkaca		neuromuscular junction; regulation of synaptic transmission	regulation of synaptic transmission, glutamatergic
+PRKAR1A	Prkar1a	Prkar1a		neuromuscular junction	
+PRKCE	Prkce	Prkce		positive regulation of synaptic transmission, GABAergic	
+PRKCG	Prkcg	Prkcg		synaptic transmission; synaptic membrane; neuronal postsynaptic density	
+PRSS12	Prss12	Prss12		synaptic cleft; terminal bouton; synapse	
+PSEN1	Psen1	Psen1		synaptic vesicle targeting; regulation of synaptic plasticity; regulation of synaptic plasticity; regulation of synaptic transmission, glutamatergic	neuromuscular junction
+PSEN2	Psen2	Psen2		regulation of synaptic plasticity	
+PTEN	Pten	Pten		neuron-neuron synaptic transmission; synapse assembly; rhythmic synaptic transmission; synapse maturation; long-term synaptic potentiation; negative regulation of excitatory postsynaptic membrane potential; presynaptic membrane assembly; postsynaptic density assembly; positive regulation of excitatory postsynaptic membrane potential	postsynaptic membrane; long term synaptic depression
+PTK2	Ptk2	Ptk2		negative regulation of synapse assembly	positive regulation of synaptic transmission
+RAB17	Rab17	Rab17		regulation of synapse assembly	
+RAB3A	Rab3a	Rab3a		neuromuscular synaptic transmission; synaptic vesicle; synaptic vesicle exocytosis; synaptic vesicle maturation; regulation of synaptic vesicle fusion to presynaptic membrane	synaptic vesicle; synaptic vesicle exocytosis; synaptic vesicle recycling; terminal bouton
+RAB3B	Rab3b	Rab3b	positive regulation of dopamine uptake involved in synaptic transmission	synaptic vesicle	
+RAB3C	Rab3c	Rab3c		synaptic vesicle	
+RAP1A	Rap1a	Rap1a		negative regulation of synaptic vesicle exocytosis	
+RAP1B	Rap1b	Rap1b		negative regulation of synaptic vesicle exocytosis	
+RAPSN	Rapsn	Rapsn	synaptic transmission, cholinergic	neuromuscular junction	neuromuscular junction; positive regulation of neuromuscular synaptic transmission
+RASD2	Rasd2	Rasd2		synaptic transmission, dopaminergic	
+RASGRF1	Rasgrf1	Rasgrf1		regulation of neuronal synaptic plasticity	regulation of synaptic plasticity
+RELN	Reln	Reln		regulation of synaptic transmission; positive regulation of synaptic transmission, glutamatergic; positive regulation of synaptic transmission, glutamatergic; positive regulation of synapse maturation; N-methyl-D-aspartate receptor clustering; positive regulation of excitatory postsynaptic membrane potential; positive regulation of excitatory postsynaptic membrane potential	
+RGS14	Rgs14	Rgs14		postsynaptic density; negative regulation of synaptic plasticity; long-term synaptic potentiation	
+RIMS1	RIMS1	Rims1		postsynaptic density; synapse; regulation of long-term neuronal synaptic plasticity	
+RIMS4	Rims4	Rims4		synaptic membrane	regulation of synaptic vesicle exocytosis
+RIN1		Rin1		negative regulation of synaptic plasticity	synaptic vesicle membrane
+RTN4	Rtn4	Rtn4		neuronal postsynaptic density	
+S100B	S100b	S100b		regulation of neuronal synaptic plasticity	positive regulation of synaptic transmission; long-term synaptic potentiation
+S1PR2	S1pr2	S1pr2		negative regulation of excitatory postsynaptic membrane potential	
+SARM1	Sarm1	Sarm1		synapse	
+SCAMP1	Scamp1	Scamp1		synaptic vesicle membrane; synapse	terminal bouton
+SCRIB	Scrib	Scrib	presynaptic membrane; postsynaptic membrane	synaptic vesicle targeting; synaptic vesicle endocytosis	
+SEMA4B	Sema4b	Sema4b		synapse	
+SEMA4C	Sema4c	Sema4c		postsynaptic density; synaptic vesicle membrane	
+SEPT2	Sept2	Sept2		synapse	
+SEPT5	Sept5	Sept5	synaptic vesicle	synaptic vesicle; terminal bouton; synapse	synaptic vesicle; terminal bouton
+SEPT6	Sept6	Sept6		synaptic vesicle	
+SEPT7	Sept7	Sept7		synapse	
+SERPINE2	Serpine2	Serpine2		neuromuscular junction; regulation of synaptic transmission, glutamatergic; long-term synaptic potentiation	
+SEZ6	Sez6	Sez6		synapse maturation; regulation of excitatory postsynaptic membrane potential	synapse maturation; regulation of excitatory postsynaptic membrane potential
+SEZ6L	Sez6l	Sez6l		synapse maturation	
+SEZ6L2	Sez6l2	Sez6l2		synapse maturation	
+SH3GL2	Sh3gl2	Sh3gl2		synaptic vesicle endocytosis	
+SHANK1	Shank1	Shank1		postsynaptic membrane; excitatory synapse; neuronal postsynaptic density; positive regulation of excitatory postsynaptic membrane potential	synapse; postsynaptic membrane; synapse maturation
+SHANK2	Shank2	Shank2		synapse assembly; postsynaptic membrane; long-term synaptic potentiation; long term synaptic depression	postsynaptic density
+SHANK3	Shank3	Shank3		synapse assembly; positive regulation of long-term neuronal synaptic plasticity; positive regulation of synaptic transmission, glutamatergic; postsynaptic density assembly; alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering; N-methyl-D-aspartate receptor clustering; positive regulation of excitatory postsynaptic membrane potential	postsynaptic density; synapse; neuronal postsynaptic density
+SHC3	Shc3	Shc3		synaptic transmission, glutamatergic	
+SHISA9	Shisa9	Shisa9		synapse; regulation of short-term neuronal synaptic plasticity	
+SIX1	Six1	Six1		regulation of synaptic growth at neuromuscular junction	
+SIX4	Six4	Six4		regulation of synaptic growth at neuromuscular junction	
+SLC12A5	Slc12a5	Slc12a5		synaptic transmission	
+SLC17A6	Slc17a6	Slc17a6		synaptic vesicle	
+SLC17A7	Slc17a7	Slc17a7		synaptic transmission; synaptic vesicle; synaptic vesicle membrane; synaptic transmission, glutamatergic; synapse; presynaptic active zone; excitatory synapse; regulation of excitatory postsynaptic membrane potential	synapse; excitatory synapse
+SLC17A8	Slc17a8	Slc17a8		synaptic vesicle membrane	
+SLC1A3	Slc1a3	Slc1a3		positive regulation of synaptic transmission	synapse
+SLC24A2	Slc24a2	Slc24a2		long-term synaptic potentiation; long term synaptic depression	
+SLC30A3	Slc30a3	Slc30a3		synaptic vesicle membrane	
+SLC32A1	Slc32a1	Slc32a1		inhibitory synapse	synaptic vesicle; synapse; inhibitory synapse
+SLC40A1	Slc40a1	Slc40a1		synaptic vesicle	
+SLC5A7	Slc5a7	Slc5a7		synaptic transmission, cholinergic; neuromuscular synaptic transmission	
+SLC9A6	Slc9a6	Slc9a6		synapse	
+SLITRK5	Slitrk5	Slitrk5		synaptic transmission	
+SLITRK6	Slitrk6	Slitrk6	synapse assembly	synapse assembly	
+SNAP25	Snap25	Snap25		synapse; long-term synaptic potentiation	terminal bouton; regulation of synapse assembly
+SNAP47	Snap47	Snap47		long-term synaptic potentiation	
+SNAP91	Snap91	Snap91		synaptic transmission	synaptic vesicle; postsynaptic density; presynaptic membrane; terminal bouton; postsynaptic membrane
+SNAPIN	Snapin	Snapin	synaptic vesicle; synaptic vesicle exocytosis; synapse; synaptic vesicle transport	synaptic transmission; synaptic vesicle maturation; synaptic vesicle fusion to presynaptic membrane; anterograde synaptic vesicle transport	
+SNCA	Snca	Snca	negative regulation of dopamine uptake involved in synaptic transmission; negative regulation of serotonin uptake; negative regulation of norepinephrine uptake	positive regulation of neurotransmitter secretion; synaptic transmission, dopaminergic; synaptic transmission; synapse; regulation of neurotransmitter secretion; regulation of neurotransmitter secretion; regulation of neuronal synaptic plasticity; regulation of long-term neuronal synaptic plasticity; synaptic vesicle endocytosis; synaptic vesicle transport; positive regulation of synaptic transmission; regulation of excitatory postsynaptic membrane potential; long-term synaptic potentiation	synaptic vesicle; terminal bouton
+SNCB	Sncb	Sncb		synaptic transmission; synapse	terminal bouton
+SNCG	Sncg	Sncg		synaptic transmission; regulation of neurotransmitter secretion	
+SNTA1	Snta1	Snta1		postsynaptic membrane	neuromuscular junction
+SNTB1	Sntb1	Sntb1		synapse	
+SNTB2	Sntb2	Sntb2		synapse	
+SORCS3	Sorcs3	Sorcs3		neuronal postsynaptic density	
+SPOCK1	Spock1	Spock1		neuromuscular junction	
+SPTBN1	Sptbn1	Sptbn1		neuronal postsynaptic density	
+SPTBN2	Sptbn2	Sptbn2		synapse assembly	synaptic vesicle exocytosis
+SRCIN1	Srcin1	Srcin1		neuronal postsynaptic density	postsynaptic density; synapse
+SRF	Srf	Srf		long term synaptic depression	
+SRGAP2		Srgap2		postsynaptic density; postsynaptic membrane	synaptic vesicle membrane
+SSTR1	Sstr1	Sstr1	somatostatin receptor activity	somatostatin receptor activity; somatostatin receptor activity; synaptic transmission	somatostatin receptor activity
+SSTR2	Sstr2	Sstr2		somatostatin receptor activity; somatostatin receptor activity; synaptic transmission	somatostatin receptor activity
+STON2	Ston2	Ston2	synaptic vesicle endocytosis	synaptic vesicle	
+STX1A	Stx1a	Stx1a		synaptic vesicle; synaptic vesicle membrane	positive regulation of neurotransmitter secretion; synaptic vesicle docking involved in exocytosis
+STX3	Stx3	Stx3		long-term synaptic potentiation	
+STXBP1	Stxbp1	Stxbp1		neuromuscular synaptic transmission; synaptic vesicle maturation; negative regulation of synaptic transmission, GABAergic; long term synaptic depression	regulation of synaptic vesicle priming; terminal bouton
+SV2A	Sv2a	Sv2a		synaptic vesicle; neuromuscular junction; presynaptic active zone	synaptic vesicle membrane; terminal bouton; synapse
+SV2B	Sv2b	Sv2b		synaptic vesicle	synaptic vesicle; terminal bouton
+SV2C	Sv2c	Sv2c		synaptic vesicle	synaptic vesicle
+SYDE1	Syde1	Syde1		synaptic vesicle docking involved in exocytosis; positive regulation of synaptic transmission; synaptic membrane	
+SYN1	Syn1	Syn1		postsynaptic density; synaptic vesicle membrane; synapse; presynaptic active zone	synaptic vesicle; terminal bouton
+SYN2	Syn2	Syn2		synaptic vesicle membrane; synapse; neuronal postsynaptic density	synaptic vesicle; terminal bouton
+SYN3	Syn3	Syn3		synaptic vesicle membrane; synapse; neuronal postsynaptic density	synaptic vesicle
+SYNC	Sync	Sync		neuromuscular junction	
+SYNDIG1	Syndig1	Syndig1	positive regulation of synapse assembly	postsynaptic density; positive regulation of synapse assembly	positive regulation of synapse assembly; excitatory synapse
+SYNGAP1	Syngap1	Syngap1		regulation of long-term neuronal synaptic plasticity; regulation of long-term neuronal synaptic plasticity; neuronal postsynaptic density	postsynaptic density; regulation of synaptic plasticity
+SYNGR1	Syngr1	Syngr1		regulation of long-term neuronal synaptic plasticity; regulation of short-term neuronal synaptic plasticity	synaptic vesicle; synaptic vesicle membrane; terminal bouton
+SYNGR2	Syngr2	Syngr2		synaptic vesicle	
+SYNGR3	Syngr3	Syngr3		synaptic vesicle; neuromuscular junction; synapse	
+SYNJ1	Synj1	Synj1		synaptic vesicle priming; synaptic vesicle uncoating; synaptic vesicle endocytosis; synaptic vesicle transport	
+SYP	Syp	Syp		synaptic vesicle; synaptic vesicle membrane; presynaptic membrane; synapse; regulation of long-term neuronal synaptic plasticity; regulation of short-term neuronal synaptic plasticity; presynaptic active zone; excitatory synapse	synaptic vesicle; terminal bouton; excitatory synapse
+SYT1	Syt1	Syt1		synaptic vesicle; synaptic vesicle exocytosis; synaptic vesicle membrane; presynaptic membrane	synaptic vesicle; terminal bouton; excitatory synapse
+TH	Th	Th		synaptic transmission, dopaminergic	synaptic vesicle; synaptic vesicle amine transport; terminal bouton
+TLN2	Tln2	Tln2		synapse	
+TMEM163	Tmem163	Tmem163		integral component of synaptic vesicle membrane	integral component of synaptic vesicle membrane
+TMEM57	Tmem57	Tmem57		synapse	
+TMOD2	Tmod2	Tmod2		neuron-neuron synaptic transmission	
+TNR	Tnr	Tnr		regulation of synaptic transmission; negative regulation of synaptic transmission; positive regulation of synaptic transmission, glutamatergic; long-term synaptic potentiation	
+TPGS1	Tpgs1	Tpgs1		synaptic transmission	
+TRAPPC4	Trappc4	Trappc4		synaptic vesicle; synapse	
+TULP1	Tulp1	Tulp1		synapse	
+UNC13A	Unc13a	Unc13a		positive regulation of neurotransmitter secretion; synaptic vesicle docking involved in exocytosis; synaptic vesicle maturation; neuromuscular junction; synaptic transmission, glutamatergic; synaptic transmission, glutamatergic; synapse; regulation of short-term neuronal synaptic plasticity	synaptic vesicle priming; presynaptic membrane; terminal bouton; excitatory synapse; long-term synaptic potentiation
+UNC13B	Unc13b	Unc13b		synaptic transmission; synaptic vesicle docking involved in exocytosis; synaptic vesicle priming; neuromuscular junction; synaptic transmission, glutamatergic; synaptic transmission, glutamatergic; regulation of short-term neuronal synaptic plasticity	positive regulation of synaptic vesicle priming; terminal bouton; positive regulation of inhibitory postsynaptic membrane potential
+UNC13C	Unc13c	Unc13c		synaptic transmission	
+USH1C		Ush1c		synapse	synaptic vesicle membrane
+USP14	Usp14	Usp14		synaptic transmission; synapse	
+USP46	Usp46	Usp46		regulation of synaptic transmission, GABAergic	
+UTRN	Utrn	Utrn		neuromuscular junction; synapse	neuromuscular junction
+VAMP2	Vamp2	Vamp2		synaptic vesicle; synaptic vesicle exocytosis; synaptic vesicle membrane; synapse; long-term synaptic potentiation	synaptic vesicle; terminal bouton
+VDAC1	Vdac1	Vdac1		synaptic transmission; neuron-neuron synaptic transmission	
+VDAC3	Vdac3	Vdac3		synaptic transmission; neuron-neuron synaptic transmission	
+VPS35	Vps35	Vps35		neuronal postsynaptic density	
+WNT5A	Wnt5a	Wnt5a		negative regulation of synapse assembly	
+WNT7A	Wnt7a	Wnt7a	positive regulation of synapse assembly	positive regulation of synapse assembly	
+ZDHHC15	Zdhhc15	Zdhhc15		synaptic vesicle maturation; synaptic vesicle maturation	
+ZMYND19	Zmynd19	Zmynd19		synapse	
