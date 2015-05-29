@@ -1,0 +1,114 @@
+Term							comment
+synaptic transmission							
+							
+	Regulation of membrane potential						Includes: ligand-gated ion channels, voltage-gated ion channels, and ion pumps
+		ionic gradient maintainance					Includes: pumps
+		action potential generation					Includes: subset of voltage-gated ion channels
+			presynaptic action potential generation				
+			postsynaptic action potential generation				
+		ligand-gated ion current					
+		regulation of presynaptic membrane potential					
+			presynaptic action potential generation				
+			presynaptic ionic gradient maintainance				
+		regulation of postsynaptic membrane potential					
+			postsynaptic action potential generation				
+			postsynaptic ionic gradient maintainance				
+							
+	local translation						
+		presynaptic local translation					
+		postsynaptic local translation					
+							
+	synaptic transmission, presynaptic process						
+							
+		synaptic vesicle process					
+			synaptic vesicle trafficking				does 'trafficking' belong to synaptic transmission??, what to do with the other items that are trafficked to the presynapse??
+				anterograde synaptic vesicle trafficking			
+				retrograde synaptic vesicle trafficking			
+			synaptic vesicle maturation				
+				synaptic vesicle lumen acidification			
+				synaptic vesicle loading			
+					synaptic vesicle loading, amines		
+					... (other transmitters are also loaded)		
+				synaptic vesicle clustering			according to http://europepmc.org/abstract/MED/10099709
+			synaptic vesicle exocytosis				
+				... synaptic vesicle clustering			??? (see above)
+				synaptic vesicle docking			
+				synaptic vesicle priming			
+				synaptic vesicle fusion with presynaptic membrane			
+					synaptic vesicle fusion with presynaptic membrane, synchronous		
+					synaptic vesicle fusion with presynaptic membrane, asynchronous		
+					synaptic vesicle fusion with presynaptic membrane, spontaneous		
+			synaptic vesicle recycling				
+				synaptic vesicle endocytosis			
+					synaptic vesicle budding from presynaptic membrane		
+						synaptic vesicle coating	
+					synaptic vesicle uncoating		
+				synaptic vesicle endosome recycling			
+					synaptic vesicle to endosome fusion		
+					synaptic vesicle budding from endosome membrane		
+				... is 'synaptic vesicle maturation' part of the recycling??			
+							
+		neurotransmitter reuptake					
+		transsynaptic signaling, presynaptic					
+			... can happen with secreted substances/receptors				
+			... can happen with TM proteins				
+		synapse alignment, presynaptic					how different from adhesion??
+		synaptic membrane adhesion, presynaptic					how different from alignment??
+							... What to do with voltage gated calcium channels? --> are involved in SV secretion, but may get their own level?
+							
+							
+							
+	synaptic transmission, postsynaptic process						
+							
+		TN receptor process					
+			NT receptor modulation				i guess this category EXcludes the NT receptors itself
+			NT receptor clustering				Def: organization of NT receptors into larger assemblies that are trafficked or localized together
+			NT receptor localization				Def: lateral organization of NT receptors that are present in the postsynaptic membrane
+			NT receptor trafficking				Does 'trafficking' belong to synaptic transmission??, what to do with the other items that are trafficked to the postsynapse??
+				anterograde neurotransmitter receptor trafficking			
+				retrograde neurotransmitter receptor trafficking			
+				insertion of neurotranmitter receptor into postsynaptic membrane			
+					insertion of neurotranmitter receptor into postsynaptic membrane, constituitive		
+					insertion of neurotranmitter receptor into postsynaptic membrane, activity dependent		
+							
+							
+		regulation of postsynaptic membrane potential					includes all ion channels; this category INcludes the NT receptors
+							
+			generation of action potential				
+				regulation of ... is then 'excitability' 			Def: the ability to elicit an AP after membrane depolarization
+				voltage-gated sodium channels??? 			
+			postsynaptic membrane depolerization				
+			postsynaptic membrane hyperpolerization				
+							
+							
+		dendritic spine morphology					Aka structural plasticity. Def: change of the shape of the dendritic spine. This has consequences for the trafficking and distribution of synaptic gene products. This in turn affects the biochemical and electrical signaling properties of the synapse.
+							
+		synapse alignment, postsynaptic					
+		transsynaptic signaling, postsynaptic					
+			... can happen with secreted substances/receptors				
+			... can happen with TM proteins				
+		synaptic membrane adhesion, postsynaptic					
+							
+							
+synaptic plasticity 							I see this as a large container concept that contains many 'regulation of ....' terms.
+	synaptic plasticity, short term						
+	synaptic plasticity, long term						
+		long term potentiation					
+			regulation of ... (local??) translation				
+			regulation of ... NT receptor clustering				
+			regulation of ... NT receptor localization				
+			.... 				
+		long term depression					
+							
+synapse development							
+							
+	extrasynaptic modulation of synapse formation						
+	target recognition during synapse formation						
+	synaptic adhesion during synapse formation						
+	presynaptic assembly during synapse formation						
+	postsynaptic assembly during synapse formation						
+	synapse maturation						
+	synapse maintenance						I am unsure whether 'maintenance' and 'elimination' are in fact two different terms. 'elimination' appears to be more like 'negative regulation of maintainance' ??
+	synapse elimination						
+		synapse elimination, activity dependent 					
+		synapse elimination, activity independent 					
